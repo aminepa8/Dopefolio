@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #0062b9;
+    background: #1d2233;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -152,7 +152,7 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #0062b9;
+    background: #1d2233;
     color: #fff; }
   .btn--theme-inv {
     color: #0062b9;
@@ -179,7 +179,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background:#1d2235 ;
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -314,7 +314,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background:#1d2233; ;
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -395,7 +395,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: #1d2235;
   background-size: cover;
   background-position: center;
   position: relative; }
