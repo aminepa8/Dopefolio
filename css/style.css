@@ -193,6 +193,7 @@ textarea {
       height: unset;
       min-height: unset; } }
   .home-hero__socials {
+    z-index: 999;
     position: absolute;
     top: 50%;
     border: 2px solid #eee;
